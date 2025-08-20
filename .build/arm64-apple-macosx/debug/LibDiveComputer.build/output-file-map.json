@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/master.swiftdeps"
+  },
+  "/Users/swanros/code/libdivecomputer/Sources/LibDiveComputer/LibDiveComputer.swift": {
+    "dependencies": "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer.d",
+    "object": "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer.swift.o",
+    "swiftmodule": "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer.swiftdeps",
+    "diagnostics": "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer.dia"
+  }
+}

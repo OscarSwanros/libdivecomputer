@@ -5,6 +5,7 @@
 *.orig
 *.rej
 *.exe
+*.xcframework
 .*.swp
 .deps/
 .libs/

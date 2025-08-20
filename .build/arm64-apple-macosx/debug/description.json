@@ -1,0 +1,1391 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.LibDiveComputer-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/sources",
+      "importPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/Sources/LibDiveComputer/LibDiveComputer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/aes.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/array.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/atomics_cobalt.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/atomics_cobalt_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/ble.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/bluetooth.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/buffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/checksum.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/citizen_aqualand.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/citizen_aqualand_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cochran_commander.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cochran_commander_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/context.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_edy.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_edy_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_goa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_goa_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_leonardo.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_leonardo_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/custom.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/datetime.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepblu_cosmiq.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepblu_cosmiq_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepsix_excursion.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepsix_excursion_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/descriptor.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/device.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/diverite_nitekq.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/diverite_nitekq_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesoft_freedom.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesoft_freedom_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesystem_idive.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesystem_idive_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/halcyon_symbios.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/halcyon_symbios_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hdlc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_frog.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_ostc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_ostc3.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_ostc_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/ihex.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/iostream.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/irda.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/iterator.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/liquivision_lynx.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/liquivision_lynx_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_darwin.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_darwin_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_iconhd.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_iconhd_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_nemo.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_nemo_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_puck.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mclean_extreme.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mclean_extreme_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_atom2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_atom2_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_veo250.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_veo250_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_vtpro.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_vtpro_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceans_s1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceans_s1_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceans_s1_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/packet.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/pelagic_i330r.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/platform.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/rbstream.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensus.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensus_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensuspro.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensuspro_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensusultra.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensusultra_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/ringbuffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/seac_screen.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/seac_screen_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/serial_posix.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_petrel.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_predator.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_predator_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/socket.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/sporasub_sp2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/sporasub_sp2_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_common2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_d9.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_d9_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eon_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eonsteel.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eonsteel_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_solution.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_solution_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_vyper.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_vyper2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_vyper_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/tecdiving_divecomputereu.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/tecdiving_divecomputereu_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/timer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/usb.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/usbhid.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_aladin.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_memomouse.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_memomouse_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_smart.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_smart_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/version.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/zeagle_n2ition3.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "LibDiveComputer",
+      "moduleOutputPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules/LibDiveComputer.swiftmodule",
+      "objects" : [
+        "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.15",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/swanros/code/libdivecomputer/include",
+        "-module-cache-path",
+        "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/include/LibDiveComputer-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "libdivecomputer"
+      ],
+      "outputFileMapPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules/LibDiveComputer.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/swanros/code/libdivecomputer/Sources/LibDiveComputer/LibDiveComputer.swift"
+      ],
+      "tempsPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.TestApp-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/sources",
+      "importPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/Sources/TestApp/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules/LibDiveComputer.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "TestApp",
+      "moduleOutputPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules/TestApp.swiftmodule",
+      "objects" : [
+        "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.15",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/swanros/code/libdivecomputer/include",
+        "-module-cache-path",
+        "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "TestApp_main",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "libdivecomputer"
+      ],
+      "outputFileMapPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules/TestApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/swanros/code/libdivecomputer/Sources/TestApp/main.swift"
+      ],
+      "tempsPath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "LibDiveComputer" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "LibDiveComputer",
+      "-package-name",
+      "libdivecomputer",
+      "-c",
+      "/Users/swanros/code/libdivecomputer/Sources/LibDiveComputer/LibDiveComputer.swift",
+      "-I",
+      "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.15",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/swanros/code/libdivecomputer/include",
+      "-module-cache-path",
+      "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/include/LibDiveComputer-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "libdivecomputer",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "TestApp" : [
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "TestApp",
+      "-package-name",
+      "libdivecomputer",
+      "-c",
+      "/Users/swanros/code/libdivecomputer/Sources/TestApp/main.swift",
+      "-I",
+      "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.15",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/swanros/code/libdivecomputer/include",
+      "-module-cache-path",
+      "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "TestApp_main",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "libdivecomputer",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "CLibDiveComputer" : [
+
+    ],
+    "LibDiveComputer" : [
+      "CLibDiveComputer"
+    ],
+    "TestApp" : [
+      "LibDiveComputer",
+      "CLibDiveComputer"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/Sources/LibDiveComputer/LibDiveComputer.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/sources"
+    },
+    "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp-entitlement.plist"
+    },
+    "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/Sources/TestApp/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/sources"
+    },
+    "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/aes.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/array.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/atomics_cobalt.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/atomics_cobalt_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/ble.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/bluetooth.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/buffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/checksum.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/citizen_aqualand.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/citizen_aqualand_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cochran_commander.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cochran_commander_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/context.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_edy.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_edy_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_goa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_goa_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_leonardo.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/cressi_leonardo_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/custom.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/datetime.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepblu_cosmiq.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepblu_cosmiq_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepsix_excursion.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/deepsix_excursion_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/descriptor.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/device.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/diverite_nitekq.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/diverite_nitekq_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesoft_freedom.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesoft_freedom_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesystem_idive.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/divesystem_idive_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/halcyon_symbios.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/halcyon_symbios_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hdlc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_frog.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_ostc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_ostc3.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/hw_ostc_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/ihex.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/iostream.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/irda.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/iterator.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/liquivision_lynx.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/liquivision_lynx_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_darwin.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_darwin_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_iconhd.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_iconhd_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_nemo.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_nemo_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mares_puck.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mclean_extreme.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/mclean_extreme_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_atom2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_atom2_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_veo250.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_veo250_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_vtpro.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceanic_vtpro_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceans_s1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceans_s1_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/oceans_s1_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/packet.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/pelagic_i330r.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/platform.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/rbstream.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensus.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensus_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensuspro.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensuspro_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensusultra.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/reefnet_sensusultra_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/ringbuffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/seac_screen.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/seac_screen_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/serial_posix.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_petrel.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_predator.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/shearwater_predator_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/socket.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/sporasub_sp2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/sporasub_sp2_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_common.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_common2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_d9.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_d9_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eon.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eon_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eonsteel.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_eonsteel_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_solution.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_solution_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_vyper.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_vyper2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/suunto_vyper_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/tecdiving_divecomputereu.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/tecdiving_divecomputereu_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/timer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/usb.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/usbhid.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_aladin.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_memomouse.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_memomouse_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_smart.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/uwatec_smart_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/version.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/CLibDiveComputer.build/src/zeagle_n2ition3.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/LibDiveComputer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.build/main.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/TestApp.product/Objects.LinkFileList"
+    },
+    "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/swift-version-39B54973F684ADAB.txt"
+    }
+  }
+}

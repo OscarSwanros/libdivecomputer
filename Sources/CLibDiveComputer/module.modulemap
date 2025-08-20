@@ -1,0 +1,5 @@
+module CLibDiveComputer {
+    umbrella header "libdivecomputer-bridge.h"
+    export *
+    link "CLibDiveComputer"
+}

@@ -1,0 +1,3 @@
+module LibDiveComputer {
+    header "/Users/swanros/code/libdivecomputer/.build/arm64-apple-macosx/debug/LibDiveComputer.build/include/LibDiveComputer-Swift.h"
+}

@@ -1,0 +1,4 @@
+module CLibDiveComputer {
+    umbrella "/Users/swanros/code/libdivecomputer/include"
+    export *
+}
