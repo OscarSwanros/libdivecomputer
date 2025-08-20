@@ -1,4 +1,5 @@
 *~
+*.a
 *.o
 *.lo
 *.patch
@@ -32,6 +33,8 @@ Makefile.in
 /revision
 /stamp-h1
 /tags
+/.build/
+/build-ios/
 
 /doc/doxygen
 /doc/doxygen.cfg
