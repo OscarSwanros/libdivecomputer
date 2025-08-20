@@ -33,7 +33,7 @@ Makefile.in
 /revision
 /stamp-h1
 /tags
-/.build/
+.build
 /build-ios/
 
 /doc/doxygen

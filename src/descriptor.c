@@ -22,6 +22,7 @@
 #include <stddef.h>
 #include <stdlib.h>
 #include <string.h>
+#include <strings.h>
 
 #include <libdivecomputer/descriptor.h>
 #include <libdivecomputer/usbhid.h>

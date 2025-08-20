@@ -43,7 +43,14 @@ let package = Package(
                 "include/Makefile.am",
                 "include/libdivecomputer/Makefile.am",
                 "include/libdivecomputer/version.h.in",
-                "src/serial_win32.c"
+                "src/serial_win32.c",
+                "src/serial_posix.c",
+                "src/irda.c",
+                "src/usb.c",
+                "src/usbhid.c",
+                "src/bluetooth.c",
+                "src/socket.c",
+                "src/timer.c"
             ],
             sources: [
                 "src"
@@ -67,7 +74,7 @@ let package = Package(
                 .define("HAVE_GETEUID", to: "1"),
                 .define("HAVE_STRINGS_H", to: "1"),
                 .define("_POSIX_C_SOURCE", to: "200809L"),
-                .unsafeFlags(["-Wno-error", "-Wno-macro-redefined", "-Wno-implicit-function-declaration"])
+                .unsafeFlags(["-Wno-macro-redefined"])
             ],
             linkerSettings: [
                 .linkedLibrary("iconv"),
