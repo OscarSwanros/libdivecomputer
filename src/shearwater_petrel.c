@@ -296,8 +296,11 @@ shearwater_petrel_device_foreach (dc_device_t *abstract, dc_dive_callback_t call
 		current += 1;
 		maximum -= RECORD_COUNT - count - deleted;
 
-		// Append the manifest records to the main buffer.
-		if (!dc_buffer_append (manifests, data, count * RECORD_SIZE)) {
+		// Append the manifest records to the main buffer. The processed
+		// range includes the deleted records, which are skipped again when
+		// the dives are downloaded. Appending only count records would
+		// drop the last valid records of a page containing deleted ones.
+		if (!dc_buffer_append (manifests, data, offset)) {
 			ERROR (abstract->context, "Insufficient buffer space available.");
 			dc_buffer_free (buffer);
 			dc_buffer_free (manifests);
